@@ -10,7 +10,7 @@ like us? Well, code katas are short, repeatable
 programming challenges, which are meant to exercise 
 everything from your focus, to your workflow.
 
-The main idea of this repository, is to understand the basics of Unit Testing in Golang
+The main idea of this repository, is to understand the basics of Unit Testing in Golang.
 May be it will be useful for other in future, who will try 
 to understand all techniques of testing.
 
