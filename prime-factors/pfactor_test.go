@@ -9,7 +9,7 @@ type testingPair struct {
 }
 
 var testData = []testingPair{
-	{1, []int{}},
+	{1, []int{1}},
 	{2, []int{2}},
 	{100, []int{2, 2, 5, 5}},
 }

@@ -13,6 +13,7 @@ var testData = []testingPairs{
 	{ []int{1,2}, []int{1,2,3}, false },
 	{ []int{1,2}, nil, false },
 	{ []int{1,2}, []int{1,2}, true },
+	{ []int{1,2,3}, []int{1,2,3}, true },
 }
 
 
